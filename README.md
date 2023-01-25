@@ -1,4 +1,4 @@
-# OOP_UMLDiagrams
+# OOP_UMLDiagrams   https://app.patika.dev/gumusenes
 
 Ödev - Üniversite Yönetim Sistemi
 
